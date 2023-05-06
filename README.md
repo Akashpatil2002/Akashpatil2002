@@ -1,3 +1,4 @@
+![logo](https://github.com/Akashpatil2002/Akashpatil2002/blob/main/banner.png.png)
 <h1 align="center">Hi 👋, I'm Akash Sonawane</h1>
 <h3 align="center">A passionate frontend & backend Java developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">

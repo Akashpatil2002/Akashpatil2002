@@ -1,16 +1,16 @@
-![WhatsApp Image 2023-06-05 at 9 29 24 AM](https://github.com/Akashpatil2002/Akashpatil2002/assets/130535478/a3ec6504-4a9b-4d10-8e84-3b469e08c632)
 <h1>Hi 👋, My name is Akash Sonawane</h1>
-<h3 align="">A passionate frontend & backend Java developer from India</h3>
+<h2 align="">A passionate frontend & backend Web Developer from India</h2>
+<p>I am a student in computer science engineering. I love to explore new things and new technologies or skills. I started with C language first and then learnt about C++ and OOPs concepts. I am a proficient frontend developer and currently trying my hands on backend development as well. I have worked on many projects based on fronted development and I also have basic knowledge of Html, CSS, JavaScript, Bootstrap, JQuery, React js, PHP, MySql, Networking and worked on a few projects in it</p>
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashpatil2002&label=Profile%20views&color=0e75b6&style=flat" alt="akashpatil2002" /> </p>
 
+- 🌍 I'm based in India
 - 🌱 I’m currently learning Web Development Languages & MYSQL Database
-
-- 💬 Ask me about **👨‍💻HTML,CSS,JavaScript,Java Programming & MYSQL Database**
-
+- 💬 Ask me about **👨‍💻HTML,CSS,JavaScript,Bootstrap,JQuery & MYSQL Database**
 - 📫 How to reach me **akashpatil9394@gmail.com**
-
+- 🚀 I'm curruntly learning React js
 - ⚡ Fun fact **I am funny😅**
+- 🤝 I'm open to collaborating on interesting projects
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

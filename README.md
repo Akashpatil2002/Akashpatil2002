@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines=Hello+%F0%9F%91%8B+My+Name+is+Stephen.;I+Am+a+Java+Developer.;Feel+Free+to+Get+in+Touch.+%F0%9F%98%84;Nice+to+Meet+You!!!...;Hello!+नमस्ते!+Welcome!+🙆🏽)](https://github.com/StepJes)
+
 <h1>Hi 👋, My name is Akash Sonawane</h1>
 <h2 align="">🚀 Passionate Computer Science Engineering Student | Full-Stack Java Developer</h2>
 

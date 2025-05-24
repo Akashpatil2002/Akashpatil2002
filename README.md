@@ -88,6 +88,7 @@
   </a>
 </p>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines=Thanks+For+Visiting+My+Profile!!.;Visit+Again!...)](https://github.com/StepJes)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashpatil2002&show_icons=true&locale=en&layout=compact" alt="akashpatil2002" /></p>
 

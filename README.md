@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines=Hello+%F0%9F%91%8B+My+Name+is+Akash.;I+Am+a+Java+Developer.;Feel+Free+to+Get+in+Touch.+%F0%9F%98%84;Nice+to+Meet+You!!!...;Hello!+नमस्ते!+Welcome!+🙆🏽)](https://github.com/StepJes)
 
-<h1>Hi 👋, My name is Akash Sonawane</h1>
+<h1>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, My name is Akash Sonawane</h1>
 <h2 align="">🚀 Passionate Computer Science Engineering Student | Full-Stack Java Developer</h2>
 
 <p>I am an enthusiastic Computer Science Engineering student who loves to explore new technologies, skills, and innovations. My journey began with C language, followed by C++ and Object-Oriented Programming (OOPs) concepts, and has since evolved into mastering Full-Stack Development.
@@ -22,6 +22,17 @@
 - 🚀 I'm curruntly learning Angular js
 - ⚡ Fun fact **I am funny😅**
 - 🤝 I'm open to collaborating on interesting projects
+
+<h3 align='left'>
+  💻 My Workspace, My PC:<br/><br/>
+
+[![Windows 11](https://img.shields.io/badge/Windows%2011-%230078D6.svg?&style=flat-square&logo=windows&logoColor=white)](https://github.com/StepJes)
+[![Intel Core i5](https://img.shields.io/badge/Intel-Core%20i5%2011th%20%20Gen-%230071C5.svg?&style=flat-square&logo=intel&logoColor=white)](https://github.com/StepJes)
+[![24GB RAM](https://img.shields.io/badge/RAM-24GB-%230071C5.svg?&style=flat-square&logoColor=white)](https://github.com/StepJes)
+[![64 Bit System](https://img.shields.io/badge/System%20Type-64%20Bit-%230071C5.svg?&style=flat-square)](https://github.com/StepJes)
+<br/>
+
+</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

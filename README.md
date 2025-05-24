@@ -24,6 +24,14 @@
 - 🤝 I'm open to collaborating on interesting projects
 
 <h3 align='left'>
+  ⚙️ Softwares I Use:-<br/><br/>
+
+[![VS Code](https://img.shields.io/badge/Editor-VS%20Code-blue/?logo=visualstudiocode&logoColor=blue&color=blue)](https://code.visualstudio.com/)
+[![Eclipse](https://img.shields.io/badge/Eclipse-IDE-blue/?logo=eclipse&logoColor=violet&color=violet)](https://https://www.eclipse.org//)
+[![G-Mail](https://img.shields.io/badge/Uses-Gmail-blue/?logo=gmail&logoColor=warning&color=red)](https://github.com/StepJes)
+</h3>
+
+<h3 align='left'>
   💻 My Workspace, My PC:<br/><br/>
 
 [![Windows 11](https://img.shields.io/badge/Windows%2011-%230078D6.svg?&style=flat-square&logo=windows&logoColor=white)](https://github.com/StepJes)
